@@ -18,9 +18,9 @@ How well those variables describe the bike demands
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 
-#Technologies Used
-1. Python 2. NumPy 3.Seaborn 4.scikit-learn 5.statsmodels 6.Pandas 7.Matplotlib
+# Technologies Used
+**1.** Python **2.** NumPy **3.** Seaborn  **4.** scikit-learn **5.** statsmodels **6.** Pandas **7.** Matplotlib
 
 
-#Submitted by 
-Dhananjay Gore
+# Submitted by 
+_Dhananjay Gore_
